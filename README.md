@@ -2,7 +2,7 @@
 
 ### Analytics • Product • Tech-enabled Business
 
-B.Tech CSE graduate from Dibrugarh University and incoming PGP student at IIM Shillong.  
+B.Tech CSE graduate from Dibrugarh University and current PGP student at IIM Shillong.  
 I enjoy solving real-world problems using data, technology, and structured thinking.
 
 <!-- SHORT INTRO -->
