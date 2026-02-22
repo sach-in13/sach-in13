@@ -11,7 +11,13 @@ I build data-driven solutions and scalable systems with a strong business-first 
 ---
 
 ## About Me
+## About Me
 
+- 🎓 B.Tech in Computer Science & Engineering, Dibrugarh University  
+- 🏫 Ongoing PGP student at IIM Shillong  
+- 📊 Experience in supply chain operations and analytics-driven workflows  
+- 💼 Worked with Flipkart warehouse operations and Convergys tech support  
+- 🎯 Interested in Analytics, Product Management, and data-backed decision-making
 ## Skills
 
 ## Featured Projects
