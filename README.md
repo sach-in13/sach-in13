@@ -2,7 +2,7 @@
 # Hi, I'm Sachin Doley 👋
 
 <!-- TAGLINE -->
-### B.Tech CSE | Analytics & Product | Incoming PGP @ IIM Shillong
+### B.Tech CSE | Analytics & Product | Pursuing MBA @ IIM Shillong
 
 <!-- SHORT INTRO -->
 I build data-driven solutions and scalable systems with a strong business-first mindset.
