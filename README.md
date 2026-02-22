@@ -19,7 +19,21 @@ I build data-driven solutions and scalable systems with a strong business-first 
 - 💼 Worked with Flipkart warehouse operations and Convergys tech support  
 - 🎯 Interested in Analytics, Product Management, and data-backed decision-making
 ## Skills
+## Skills
 
+**Programming & Databases**  
+- Python, SQL, JavaScript, PHP, MySQL  
+
+**Analytics & Data**  
+- Pandas, NumPy, Power BI, Excel  
+- Data Cleaning, KPI Design, Dashboarding  
+
+**Web & Tools**  
+- HTML, CSS, Bootstrap  
+- Git, GitHub, Figma (basic)  
+
+**Core Concepts**  
+- Statistics, DBMS, OOPs, Basics of DSA
 ## Featured Projects
 
 ## Experience
