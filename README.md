@@ -11,14 +11,13 @@ I build data-driven solutions and scalable systems with a strong business-first 
 ---
 
 ## About Me
-## About Me
 
 - 🎓 B.Tech in Computer Science & Engineering, Dibrugarh University  
 - 🏫 Ongoing PGP student at IIM Shillong  
 - 📊 Experience in supply chain operations and analytics-driven workflows  
 - 💼 Worked with Flipkart warehouse operations and Convergys tech support  
 - 🎯 Interested in Analytics, Product Management, and data-backed decision-making
-## Skills
+
 ## Skills
 
 **Programming & Databases**  
@@ -35,7 +34,30 @@ I build data-driven solutions and scalable systems with a strong business-first 
 **Core Concepts**  
 - Statistics, DBMS, OOPs, Basics of DSA
 ## Featured Projects
+## Featured Projects
+### 📌 Assam Dress — Rural D2C Apparel Platform
 
+- Built a platform to promote and sell traditional Assamese attire sourced directly from rural weavers  
+- Designed a basic product catalog and order workflow with a focus on transparency and fair sourcing  
+- Analyzed demand patterns and customer preferences to improve product listing and pricing decisions  
+- Aimed to bridge the gap between local artisans and urban consumers using technology  
+
+🔗 View Platform: https://assamesedress.shop/
+### 📌 Election Analytics Dashboard
+- Analyzed district-level voter data to identify turnout inefficiencies  
+- Built interactive Power BI dashboards with key electoral KPIs  
+- Proposed data-driven interventions for inclusive participation  
+
+🔗 [View Repository](LINK_HERE)
+
+---
+
+### 📌 Supply Chain Operations Analysis – Flipkart
+- Analyzed outbound operations to reduce packing errors  
+- Used data validation techniques to match WID and SKU details  
+- Improved order accuracy during high-volume periods  
+
+🔗 [View Repository](LINK_HERE)
 ## Experience
 
 ## Contact
