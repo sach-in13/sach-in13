@@ -42,7 +42,7 @@ I build data-driven solutions and scalable systems with a strong business-first 
 - Analyzed demand patterns and customer preferences to improve product listing and pricing decisions  
 - Aimed to bridge the gap between local artisans and urban consumers using technology  
 
-🔗 View Platform: https://assamesedress.shop/
+🔗 [View Platform](https://assamesedress.shop/)
 ### 📌 Election Analytics Dashboard
 - Analyzed district-level voter data to identify turnout inefficiencies  
 - Built interactive Power BI dashboards with key electoral KPIs  
@@ -58,10 +58,22 @@ I build data-driven solutions and scalable systems with a strong business-first 
 - Improved order accuracy during high-volume periods  
 
 🔗 [View Repository](LINK_HERE)
+
 ## Experience
 
+**Operations Intern — Flipkart**  
+- Worked in outbound warehouse operations during peak sales  
+- Collaborated with QA teams to ensure accurate order dispatch  
+- Used operational data to reduce packing mismatches  
+
+**Technical Support — Convergys**  
+- Provided technical support for enterprise clients  
+- Strengthened problem-solving, communication, and process adherence
 ## Contact
 
+- 📧 Email: schndoley542@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/sachin-doley13
+- 🌐 Portfolio: (optional GitHub Pages / Notion)
 <!--
 **sach-in13/sach-in13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
