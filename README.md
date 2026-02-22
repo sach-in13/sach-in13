@@ -1,6 +1,6 @@
 <img src="assets/banner.png" width="100%" />
+
 # Hi, I'm Sachin Doley 👋
-assets/
 ### Analytics • Product • Tech-enabled Business
 
 B.Tech CSE graduate from Dibrugarh University and current PGP student at IIM Shillong.  
